@@ -1,4 +1,4 @@
-# How to Create a Process Write-up
+# How to Create a Process Write-up document
 
 ## Resources
 
